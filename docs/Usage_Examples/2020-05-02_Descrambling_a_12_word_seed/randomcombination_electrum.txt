@@ -1,0 +1,13 @@
+social 
+shoe 
+spin 
+enlist 
+sponsor 
+resource 
+result 
+coffee 
+ocean
+gas 
+file 
+paddle 
+ml
